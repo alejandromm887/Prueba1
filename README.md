@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>HOLA MUNDO!</title>
+<p>HOLA MUNDO!</p>
 </head>
 <body>
 
