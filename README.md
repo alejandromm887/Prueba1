@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<p>HOLA MUNDO!</p>
+<p></p>
 </head>
 <body>
 <body style="background-color:powderblue;">
