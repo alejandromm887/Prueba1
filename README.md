@@ -4,9 +4,7 @@
 <p>HOLA MUNDO!</p>
 </head>
 <body>
-
 <body style="background-color:powderblue;">
-  
 <h1>Primero</h1>
 <p>Prueba para la clase.</p>
 
